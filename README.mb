@@ -1,0 +1,173 @@
+# Certo Website Clone – Responsive Front-End Project
+
+Technologies: HTML5, CSS3, Vanilla JavaScript  
+Volume: 24,295 lines of code (HTML: 3,855 | CSS: 18,015 | JS: 2,425)  
+Responsive: Yes (breakpoints: 1024px, 768px, 480px, 360px)  
+Developer: Frontend Developer from Belarus
+
+A fully responsive front-end clone of the official Certo security software website. This educational project focuses on complex layouts, cross-device compatibility, and front-end development techniques. Certo provides tools for detecting spyware, stalkerware, and other security threats on mobile devices. This clone replicates its core design and user interface for learning purposes.
+
+## Features
+   Full Responsiveness: Adapts to all major screen sizes (Desktop, Laptop, Tablet, Mobile)
+   Complete Page Set: 10 unique pages cloned (homepage, product pages, blog, support)
+   CSS Animations: Custom animations (about 10 different animations) built using CSS @keyframes
+   Interactive Components: Functional navigation, modals, accordions with vanilla JavaScript
+   Clean Code: Well-structured semantic HTML5 and modular CSS
+
+## Project Structure
+certo-website-clone/
+├── .gitattributes
+├── .gitignore
+├── LICENSE
+├── index.html
+├── README.md
+├── css/
+│ ├── about.css
+│ ├── android.css
+│ ├── font.css
+│ ├── help.css
+│ ├── insights.css
+│ ├── iphone.css
+│ ├── privacy-policy.css
+│ ├── reset.css
+│ ├── resources.css
+│ ├── sign-in.css
+│ └── style.css
+├── fonts/
+├── html/
+│ ├── about.html
+│ ├── android.html
+│ ├── help.html
+│ ├── insights.html
+│ ├── iphone.html
+│ ├── privacy-policy.html
+│ ├── resources.html
+│ ├── sign-in.html
+│ └── terms-of-service.html
+├── images/
+└── js/
+├── about.js
+├── android.js
+├── help.js
+├── insights.js
+├── iphone.js
+├── main.js
+├── privacy-policy.js
+├── resources.js
+├── sign-in.js
+└── terms-of-service.js
+
+## Technologies Used
+   HTML5 – Semantic markup structure (3,855 lines)
+   CSS3 – Advanced styling, Flexbox, Grid, Media Queries (18,015 lines)
+   Vanilla JavaScript – For interactive elements and logic (2,425 lines)
+
+## What I Learned
+   Building a large-scale, multi-page front-end project from scratch
+   Implementing responsive design with multiple breakpoints
+   Creating custom CSS animations without external libraries
+   Structuring and organizing code for large projects
+   Developing problem-solving logic for UI interactions
+
+## How to Run Locally
+1.  Clone the repository:
+
+    git clone https://github.com/nikitadev-tech/certo-website-clone.git
+
+2.  Navigate to the project directory:
+
+    cd certo-website-clone
+
+3.  Open the index.html file in your browser
+
+## Important Disclaimer
+This is a non-commercial, educational project. This website is a clone created solely for front-end development practice and portfolio purposes. All rights to the original design, content, and the "Certo" brand belong to the rightful owners (Certo Software Ltd). This project does not represent the actual Certo software and is not affiliated with, endorsed by, or connected to the original company in any way.
+
+
+
+[RU] Russian version/Русская версия
+
+# Клон сайта Certo – Адаптивный Front-End Проект
+
+Технологии: HTML5, CSS3, Vanilla JavaScript  
+Объем: 24 295 строк кода (HTML: 3 855 | CSS: 18 015 | JS: 2 425)  
+Адаптивность: Да (контрольные точки: 1024px, 768px, 480px, 360px)  
+Разработчик: Фронтенд разработчик из Беларуси
+
+Полностью адаптивный front-end клон официального сайта программного обеспечения для безопасности Certo. Этот учебный проект фокусируется на сложных макетах, кроссплатформенной совместимости и техниках фронтенд-разработки. Certo предоставляет инструменты для обнаружения шпионского (spyware), сталкерского (stalkerware) ПО и других угроз на мобильных устройствах. Этот клон повторяет ключевой дизайн и пользовательский интерфейс оригинала.
+
+## Особенности
+   Полная адаптивность: Бесшовное отображение на всех основных разрешениях (ПК, Ноутбуки, Планшеты, Телефоны)
+   Полный набор страниц: Клонировано 10 уникальных страниц (главная, страницы продуктов, блог, поддержка)
+   CSS Анимации: Пользовательские анимации (около 10 различных анимаций), созданные с использованием CSS @keyframes
+   Интерактивные компоненты: Рабочие навигация, модальные окна, аккордеоны и формы, реализованные на ванильном JavaScript
+   Чистый код: Хорошо структурированный семантический HTML5 и модульный CSS
+
+## Структура проекта
+certo-website-clone/
+├── .gitattributes
+├── .gitignore
+├── LICENSE
+├── index.html
+├── README.md
+├── css/
+│ ├── about.css
+│ ├── android.css
+│ ├── font.css
+│ ├── help.css
+│ ├── insights.css
+│ ├── iphone.css
+│ ├── privacy-policy.css
+│ ├── reset.css
+│ ├── resources.css
+│ ├── sign-in.css
+│ └── style.css
+├── fonts/
+├── html/
+│ ├── about.html
+│ ├── android.html
+│ ├── help.html
+│ ├── insights.html
+│ ├── iphone.html
+│ ├── privacy-policy.html
+│ ├── resources.html
+│ ├── sign-in.html
+│ └── terms-of-service.html
+├── images/
+└── js/
+├── about.js
+├── android.js
+├── help.js
+├── insights.js
+├── iphone.js
+├── main.js
+├── privacy-policy.js
+├── resources.js
+├── sign-in.js
+└── terms-of-service.js
+
+## Используемые технологии
+   HTML5 – Семантическая разметка (3 855 строк)
+   CSS3 – Продвинутые стили, Flexbox, Grid, Медиа-запросы (18 015 строк)
+   Vanilla JavaScript – Для всей интерактивной логики (2 425 строк)
+
+## Чему я научился
+   Создание крупного многостраничного фронтенд-проекта с нуля
+   Реализация адаптивного дизайна с несколькими контрольными точками
+   Создание пользовательских CSS-анимаций без внешних библиотек
+   Структурирование и организация кода в проектах с большим объемом
+   Разработка логики для взаимодействия с пользовательским интерфейсом
+
+## Как запустить локально
+1.  Клонируйте репозиторий:
+
+    git clone https://github.com/nikitadev-tech/certo-website-clone.git
+
+2.  Перейдите в директорию проекта:
+
+    cd certo-website-clone
+
+3.  Откройте файл index.html в браузере
+
+## Важное предупреждение
+  Это некоммерческий, учебный проект. Данный сайт является клоном, созданным исключительно в практических и портфолио целях фронтенд-разработки. Все права на оригинальный дизайн, контент и торговую марку "Certo" принадлежат их законным владельцам (Certo Software Ltd). Этот проект не представляет собой настоящее программное обеспечение Certo и никак не связан, не аффилирован, не одобрен и не спонсируется оригинальной компанией.
